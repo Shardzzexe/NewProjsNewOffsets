@@ -4,7 +4,7 @@
     "author": "Jonah (jonahw on Discord)",
     "github": "https://git.jonah.cool/jonah/roblox-dumper",
     "roblox_version": "version-f5a60436d48947d3",
-    "total_offsets": 328
+    "total_offsets": 329
   },
   "offsets": {
     "AirProperties": {
@@ -39,7 +39,7 @@
       "Size": 40
     },
     "CachedItem": {
-      "FileMeshData": 64
+      "FileMeshData": 40
     },
     "Camera": {
       "CFrame": 216,
@@ -221,13 +221,13 @@
     },
     "LocalScript": {
       "Bytecode": 400,
-      "Hash": 416
+      "Hash": 208
     },
     "LruHolder": {
       "MemEnforcedLRUCache": 32
     },
     "LruNode": {
-      "CachedItem": 64,
+      "CachedItem": 56,
       "MeshId": 16,
       "Next": 0
     },
@@ -270,7 +270,7 @@
     },
     "ModuleScript": {
       "Bytecode": 312,
-      "Hash": 328,
+      "Hash": 208,
       "IsRobloxScript": 360
     },
     "MouseService": {
@@ -281,7 +281,7 @@
       "DisplayName": 312,
       "HealthDisplayDistance": 916,
       "LocaleId": 1864,
-      "ModelInstance": 662,
+      "ModelInstance": 664,
       "NameDisplayDistance": 932,
       "Team": 728,
       "TeamColor": 944,
@@ -356,6 +356,7 @@
       "JobEnd": 208,
       "JobName": 24,
       "JobStart": 200,
+      "MaxFps": 176,
       "Pointer": 144985448
     },
     "Team": {
