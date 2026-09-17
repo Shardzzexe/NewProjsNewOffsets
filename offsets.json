@@ -3,8 +3,8 @@
     "dumper": "roblox-dumper 3.6",
     "author": "Jonah (jonahw on Discord)",
     "github": "https://git.jonah.cool/jonah/roblox-dumper",
-    "roblox_version": "version-f5a60436d48947d3",
-    "total_offsets": 329
+    "roblox_version": "version-e7d81637d42c4b23",
+    "total_offsets": 316
   },
   "offsets": {
     "AirProperties": {
@@ -26,7 +26,7 @@
       "Massless": 311,
       "Primitive": 392,
       "Reflectance": 268,
-      "Shape": 441,
+      "Shape": 440,
       "Transparency": 304
     },
     "BloomEffect": {
@@ -34,12 +34,8 @@
       "Size": 188,
       "Threshold": 192
     },
-    "ByteCode": {
-      "Pointer": 16,
-      "Size": 40
-    },
     "CachedItem": {
-      "FileMeshData": 40
+      "FileMeshData": 64
     },
     "Camera": {
       "CFrame": 216,
@@ -64,23 +60,23 @@
       "PropertyDescriptors": 64
     },
     "Creator": {
-      "MapEnd": 137626584,
-      "MapStart": 137626576
+      "MapEnd": 138089736,
+      "MapStart": 138089728
     },
     "DataModel": {
       "CreatorId": 384,
       "GameId": 392,
-      "GameLoaded": 1488,
+      "GameLoaded": 1496,
       "JobId": 280,
       "PlaceId": 400,
-      "ServerIP": 1464,
+      "ServerIP": 1472,
       "Workspace": 344
     },
     "Descriptor": {
       "Name": 8
     },
     "FakeDataModel": {
-      "Pointer": 147496136,
+      "Pointer": 147990632,
       "RealDataModel": 504
     },
     "FileMeshData": {
@@ -92,24 +88,24 @@
       "VerticesEnd": 8
     },
     "Fire": {
-      "FireProximityPrompt": 50969856
+      "FireProximityPrompt": 51161424
     },
     "FunctionDescriptor": {
       "Function": 128
     },
     "Functions": {
-      "Clone": 23171440,
-      "Destroy": 23171472,
-      "FindPartOnRay": 15414368,
-      "FindPartOnRayWithIgnoreList": 15414496,
-      "FindPartOnRayWithWhitelist": 15414640,
-      "FireServer": 13209616,
-      "Print": 29790176,
-      "RaisePropertyChanged": 16119120,
-      "Raycast": 15378960,
-      "SetParent": 11568360,
-      "SetParentInternal": 30087888,
-      "Shapecast": 15385552
+      "Clone": 23268496,
+      "Destroy": 23268528,
+      "FindPartOnRay": 15463024,
+      "FindPartOnRayWithIgnoreList": 15463152,
+      "FindPartOnRayWithWhitelist": 15463296,
+      "FireServer": 13233872,
+      "Print": 29925456,
+      "RaisePropertyChanged": 16168128,
+      "Raycast": 15427680,
+      "SetParent": 11607840,
+      "SetParentInternal": 30223376,
+      "Shapecast": 15434272
     },
     "GuiBase2D": {
       "AbsolutePosition": 264,
@@ -128,11 +124,11 @@
       "ClipsDescendants": 1449,
       "GuiState": 1400,
       "Interactable": 1451,
-      "LayoutOrder": 1408,
+      "LayoutOrder": 1404,
       "Position": 1296,
       "Rotation": 232,
       "Selectable": 1452,
-      "SelectionOrder": 1436,
+      "SelectionOrder": 1432,
       "Size": 1328,
       "SizeConstraint": 1440,
       "Visible": 1453,
@@ -219,15 +215,11 @@
       "TrueMoonPosition": 388,
       "TrueSunPosition": 376
     },
-    "LocalScript": {
-      "Bytecode": 400,
-      "Hash": 208
-    },
     "LruHolder": {
       "MemEnforcedLRUCache": 32
     },
     "LruNode": {
-      "CachedItem": 56,
+      "CachedItem": 64,
       "MeshId": 16,
       "Next": 0
     },
@@ -267,11 +259,6 @@
     "Model": {
       "PrimaryPart": 600,
       "Scale": 324
-    },
-    "ModuleScript": {
-      "Bytecode": 312,
-      "Hash": 208,
-      "IsRobloxScript": 360
     },
     "MouseService": {
       "InputObject": 256
@@ -326,11 +313,8 @@
       "LightingValid": 552,
       "SkyboxValid": 653
     },
-    "ScriptContext": {
-      "RequireBypass": 2560
-    },
     "Seat": {
-      "Occupant": 528
+      "Occupant": 536
     },
     "Sky": {
       "MoonAngularSize": 580,
@@ -352,24 +336,17 @@
       "Scale": 196,
       "TextureId": 296
     },
-    "TaskScheduler": {
-      "JobEnd": 208,
-      "JobName": 24,
-      "JobStart": 200,
-      "MaxFps": 176,
-      "Pointer": 144985448
-    },
     "Team": {
       "TeamColor": 184
     },
     "Terrain": {
-      "GrassLength": 488,
-      "MaterialColors": 1200,
-      "WaterColor": 472,
-      "WaterReflectance": 496,
-      "WaterTransparency": 500,
-      "WaterWaveSize": 504,
-      "WaterWaveSpeed": 508
+      "GrassLength": 496,
+      "MaterialColors": 1208,
+      "WaterColor": 480,
+      "WaterReflectance": 504,
+      "WaterTransparency": 508,
+      "WaterWaveSize": 512,
+      "WaterWaveSpeed": 516
     },
     "TextButton": {
       "AutoButtonColor": 2500,
@@ -402,7 +379,7 @@
       "Text": 2952,
       "TextColor3": 3744,
       "TextDirection": 3392,
-      "TextScaled": 3478,
+      "TextScaled": 2853,
       "TextSize": 3780,
       "TextStrokeColor3": 3756,
       "TextStrokeTransparency": 3784,
@@ -425,7 +402,7 @@
       "Tooltip": 1128
     },
     "Types": {
-      "AllTypes": 142830296
+      "AllTypes": 143297672
     },
     "Value": {
       "Value": 184
@@ -439,22 +416,22 @@
       "TurnSpeed": 568
     },
     "VisualEngine": {
-      "Dimensions": 2784,
-      "FakeDataModel": 2752,
-      "Pointer": 137240872,
-      "RenderView": 3072,
-      "ViewMatrix": 384
+      "Dimensions": 2832,
+      "FakeDataModel": 2800,
+      "Pointer": 137696264,
+      "RenderView": 3120,
+      "ViewMatrix": 432
     },
     "Workspace": {
-      "CurrentCamera": 1176,
-      "ReadOnlyGravity": 2504,
-      "World": 1008
+      "CurrentCamera": 1208,
+      "ReadOnlyGravity": 2544,
+      "World": 1040
     },
     "World": {
-      "AirProperties": 568,
+      "AirProperties": 576,
       "Gravity": 552,
-      "Primitives": 680,
-      "WorldSteps": 1824
+      "Primitives": 688,
+      "WorldSteps": 1832
     }
   },
   "enums": {
