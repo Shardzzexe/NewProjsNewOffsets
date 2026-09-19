@@ -3,8 +3,8 @@
     "dumper": "roblox-dumper 3.6",
     "author": "Jonah (jonahw on Discord)",
     "github": "https://git.jonah.cool/jonah/roblox-dumper",
-    "roblox_version": "version-e7d81637d42c4b23",
-    "total_offsets": 316
+    "roblox_version": "version-4310300497aa4917",
+    "total_offsets": 318
   },
   "offsets": {
     "AirProperties": {
@@ -60,52 +60,52 @@
       "PropertyDescriptors": 64
     },
     "Creator": {
-      "MapEnd": 138089736,
-      "MapStart": 138089728
+      "MapEnd": 139258936,
+      "MapStart": 139258928
     },
     "DataModel": {
-      "CreatorId": 384,
-      "GameId": 392,
-      "GameLoaded": 1496,
-      "JobId": 280,
-      "PlaceId": 400,
-      "ServerIP": 1472,
-      "Workspace": 344
+      "CreatorId": 392,
+      "GameId": 400,
+      "GameLoaded": 1504,
+      "JobId": 288,
+      "PlaceId": 408,
+      "ServerIP": 1480,
+      "Workspace": 352
     },
     "Descriptor": {
       "Name": 8
     },
     "FakeDataModel": {
-      "Pointer": 147990632,
+      "Pointer": 149171352,
       "RealDataModel": 504
     },
     "FileMeshData": {
-      "AabbMax": 700,
-      "AabbMin": 688,
+      "AabbMax": 396,
+      "AabbMin": 384,
       "Faces": 48,
       "FacesEnd": 56,
       "Vertices": 0,
       "VerticesEnd": 8
     },
     "Fire": {
-      "FireProximityPrompt": 51161424
+      "FireProximityPrompt": 51644416
     },
     "FunctionDescriptor": {
       "Function": 128
     },
     "Functions": {
-      "Clone": 23268496,
-      "Destroy": 23268528,
-      "FindPartOnRay": 15463024,
-      "FindPartOnRayWithIgnoreList": 15463152,
-      "FindPartOnRayWithWhitelist": 15463296,
-      "FireServer": 13233872,
-      "Print": 29925456,
-      "RaisePropertyChanged": 16168128,
-      "Raycast": 15427680,
-      "SetParent": 11607840,
-      "SetParentInternal": 30223376,
-      "Shapecast": 15434272
+      "Clone": 23403168,
+      "Destroy": 23403200,
+      "FindPartOnRay": 15558576,
+      "FindPartOnRayWithIgnoreList": 15558704,
+      "FindPartOnRayWithWhitelist": 15558848,
+      "FireServer": 13315120,
+      "Print": 30252432,
+      "RaisePropertyChanged": 30415600,
+      "Raycast": 15523312,
+      "SetParent": 11688416,
+      "SetParentInternal": 30547680,
+      "Shapecast": 15529904
     },
     "GuiBase2D": {
       "AbsolutePosition": 264,
@@ -171,7 +171,7 @@
       "TargetPoint": 332,
       "UseJumpPower": 480,
       "WalkSpeed": 464,
-      "WalkSpeedCheck": 956,
+      "WalkSpeedCheck": 948,
       "WalkToPoint": 356
     },
     "ICreator": {
@@ -260,6 +260,9 @@
       "PrimaryPart": 600,
       "Scale": 324
     },
+    "ModuleScript": {
+      "IsRobloxScript": 360
+    },
     "MouseService": {
       "InputObject": 256
     },
@@ -278,16 +281,16 @@
       "LocalPlayer": 304
     },
     "Primitive": {
-      "AssemblyAngularVelocity": 260,
-      "AssemblyLinearVelocity": 248,
-      "CFrame": 200,
-      "Material": 582,
-      "Orientation": 200,
-      "Part": 528,
-      "Position": 236,
-      "PrimitiveFlags": 438,
-      "Rotation": 200,
-      "Size": 444
+      "AssemblyAngularVelocity": 236,
+      "AssemblyLinearVelocity": 224,
+      "CFrame": 176,
+      "Material": 590,
+      "Orientation": 176,
+      "Part": 536,
+      "Position": 212,
+      "PrimitiveFlags": 446,
+      "Rotation": 176,
+      "Size": 452
     },
     "PrimitiveFlags": {
       "Anchored": 2,
@@ -310,8 +313,11 @@
     },
     "RenderView": {
       "DeviceD3D11": 8,
-      "LightingValid": 552,
+      "LightingValid": 632,
       "SkyboxValid": 653
+    },
+    "ScriptContext": {
+      "RequireBypass": 2648
     },
     "Seat": {
       "Occupant": 536
@@ -349,45 +355,45 @@
       "WaterWaveSpeed": 516
     },
     "TextButton": {
-      "AutoButtonColor": 2500,
-      "ContentText": 3592,
-      "LineHeight": 3872,
-      "LocalizedText": 3592,
-      "MaxVisibleGraphemes": 4412,
-      "Modal": 2501,
-      "RichText": 4126,
-      "Selected": 2502,
-      "Text": 3592,
-      "TextColor3": 4384,
-      "TextDirection": 4032,
-      "TextScaled": 3569,
-      "TextSize": 4420,
-      "TextStrokeColor3": 4396,
-      "TextStrokeTransparency": 4424,
-      "TextTransparency": 4428,
-      "TextTruncate": 4432,
-      "TextWrapped": 4120,
-      "TextXAlignment": 4436,
-      "TextYAlignment": 3944
+      "AutoButtonColor": 2524,
+      "ContentText": 3608,
+      "LineHeight": 3888,
+      "LocalizedText": 3608,
+      "MaxVisibleGraphemes": 4428,
+      "Modal": 2525,
+      "RichText": 4142,
+      "Selected": 2526,
+      "Text": 3608,
+      "TextColor3": 4400,
+      "TextDirection": 4048,
+      "TextScaled": 3585,
+      "TextSize": 4436,
+      "TextStrokeColor3": 4412,
+      "TextStrokeTransparency": 4440,
+      "TextTransparency": 4444,
+      "TextTruncate": 4448,
+      "TextWrapped": 4136,
+      "TextXAlignment": 4452,
+      "TextYAlignment": 3960
     },
     "TextLabel": {
-      "ContentText": 2952,
-      "LineHeight": 3232,
-      "LocalizedText": 2952,
-      "MaxVisibleGraphemes": 3772,
-      "RichText": 3486,
-      "Text": 2952,
-      "TextColor3": 3744,
-      "TextDirection": 3392,
-      "TextScaled": 2853,
-      "TextSize": 3780,
-      "TextStrokeColor3": 3756,
-      "TextStrokeTransparency": 3784,
-      "TextTransparency": 3788,
-      "TextTruncate": 3792,
-      "TextWrapped": 3480,
-      "TextXAlignment": 3796,
-      "TextYAlignment": 3304
+      "ContentText": 2968,
+      "LineHeight": 3248,
+      "LocalizedText": 2968,
+      "MaxVisibleGraphemes": 3788,
+      "RichText": 3502,
+      "Text": 2968,
+      "TextColor3": 3760,
+      "TextDirection": 3408,
+      "TextScaled": 2945,
+      "TextSize": 3796,
+      "TextStrokeColor3": 3772,
+      "TextStrokeTransparency": 3800,
+      "TextTransparency": 3804,
+      "TextTruncate": 3808,
+      "TextWrapped": 3496,
+      "TextXAlignment": 3812,
+      "TextYAlignment": 3320
     },
     "Tool": {
       "CanBeDropped": 1208,
@@ -402,7 +408,7 @@
       "Tooltip": 1128
     },
     "Types": {
-      "AllTypes": 143297672
+      "AllTypes": 144477336
     },
     "Value": {
       "Value": 184
@@ -418,13 +424,13 @@
     "VisualEngine": {
       "Dimensions": 2832,
       "FakeDataModel": 2800,
-      "Pointer": 137696264,
+      "Pointer": 138868584,
       "RenderView": 3120,
       "ViewMatrix": 432
     },
     "Workspace": {
       "CurrentCamera": 1208,
-      "ReadOnlyGravity": 2544,
+      "ReadOnlyGravity": 2560,
       "World": 1040
     },
     "World": {
