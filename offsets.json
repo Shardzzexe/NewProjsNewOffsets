@@ -3,7 +3,7 @@
     "dumper": "roblox-dumper 3.6",
     "author": "Jonah (jonahw on Discord)",
     "github": "https://git.jonah.cool/jonah/roblox-dumper",
-    "roblox_version": "version-2366ba214ec740ca",
+    "roblox_version": "version-02c37bc51a384b8f",
     "total_offsets": 325
   },
   "offsets": {
@@ -64,8 +64,8 @@
       "PropertyDescriptors": 64
     },
     "Creator": {
-      "MapEnd": 139976568,
-      "MapStart": 139976560
+      "MapEnd": 140438248,
+      "MapStart": 140438240
     },
     "DataModel": {
       "CreatorId": 376,
@@ -80,7 +80,7 @@
       "Name": 8
     },
     "FakeDataModel": {
-      "Pointer": 149821224,
+      "Pointer": 146098560,
       "RealDataModel": 504
     },
     "FileMeshData": {
@@ -92,24 +92,23 @@
       "VerticesEnd": 8
     },
     "Fire": {
-      "FireProximityPrompt": 52156416
+      "FireProximityPrompt": 51978352
     },
     "FunctionDescriptor": {
       "Function": 128
     },
     "Functions": {
-      "Clone": 22458368,
-      "Destroy": 22458400,
-      "FindPartOnRay": 14540816,
-      "FindPartOnRayWithIgnoreList": 14540944,
-      "FindPartOnRayWithWhitelist": 14541088,
-      "FireServer": 12279680,
-      "Print": 30384336,
-      "RaisePropertyChanged": 15267616,
-      "Raycast": 14505536,
-      "SetParent": 14345109,
-      "SetParentInternal": 30675472,
-      "Shapecast": 14512128
+      "Clone": 22598560,
+      "Destroy": 22598592,
+      "FindPartOnRay": 14745056,
+      "FindPartOnRayWithIgnoreList": 14745184,
+      "FindPartOnRayWithWhitelist": 14745328,
+      "FireServer": 12419712,
+      "Print": 30600880,
+      "RaisePropertyChanged": 30765408,
+      "Raycast": 14709936,
+      "SetParentInternal": 30895888,
+      "Shapecast": 14716528
     },
     "GuiBase2D": {
       "AbsolutePosition": 248,
@@ -141,7 +140,7 @@
     "Highlight": {
       "Adornee": 168,
       "DepthMode": 208,
-      "Enabled": 216,
+      "Enabled": 228,
       "FillColor": 184,
       "FillTransparency": 212,
       "OutlineColor": 196,
@@ -182,7 +181,7 @@
       "Create": 0
     },
     "InputObject": {
-      "MousePosition": 196
+      "MousePosition": 212
     },
     "Instance": {
       "ChildrenEnd": 8,
@@ -265,7 +264,7 @@
       "Scale": 308
     },
     "ModuleScript": {
-      "Bytecode": 456,
+      "Bytecode": 8,
       "IsRobloxScript": 344
     },
     "MouseService": {
@@ -275,7 +274,7 @@
       "AccountAge": 844,
       "DisplayName": 296,
       "HealthDisplayDistance": 900,
-      "LocaleId": 1856,
+      "LocaleId": 1864,
       "ModelInstance": 648,
       "NameDisplayDistance": 916,
       "Team": 712,
@@ -322,7 +321,7 @@
       "SkyboxValid": 653
     },
     "ScriptContext": {
-      "RequireBypass": 2734
+      "RequireBypass": 2768
     },
     "Seat": {
       "Occupant": 520
@@ -351,7 +350,8 @@
       "JobEnd": 208,
       "JobName": 24,
       "JobStart": 200,
-      "Pointer": 147378440
+      "MaxFps": 176,
+      "Pointer": 145748640
     },
     "Team": {
       "TeamColor": 168
@@ -377,7 +377,7 @@
       "Text": 3592,
       "TextColor3": 4384,
       "TextDirection": 4032,
-      "TextScaled": 3569,
+      "TextScaled": 4118,
       "TextSize": 4420,
       "TextStrokeColor3": 4396,
       "TextStrokeTransparency": 4424,
@@ -402,7 +402,7 @@
       "TextStrokeTransparency": 3784,
       "TextTransparency": 3788,
       "TextTruncate": 3792,
-      "TextWrapped": 3478,
+      "TextWrapped": 3480,
       "TextXAlignment": 3796,
       "TextYAlignment": 3304
     },
@@ -419,7 +419,7 @@
       "Tooltip": 1112
     },
     "Types": {
-      "AllTypes": 145195768
+      "AllTypes": 145663816
     },
     "Value": {
       "Value": 168
@@ -435,20 +435,20 @@
     "VisualEngine": {
       "Dimensions": 2832,
       "FakeDataModel": 2800,
-      "Pointer": 139575048,
+      "Pointer": 140038664,
       "RenderView": 3120,
       "ViewMatrix": 432
     },
     "Workspace": {
       "CurrentCamera": 1192,
-      "ReadOnlyGravity": 2544,
+      "ReadOnlyGravity": 2488,
       "World": 1024
     },
     "World": {
       "AirProperties": 576,
       "Gravity": 552,
-      "Primitives": 688,
-      "WorldSteps": 1832
+      "Primitives": 720,
+      "WorldSteps": 1864
     }
   },
   "enums": {
