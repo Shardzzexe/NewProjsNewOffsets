@@ -3,8 +3,8 @@
     "dumper": "roblox-dumper 3.6",
     "author": "Jonah (jonahw on Discord)",
     "github": "https://git.jonah.cool/jonah/roblox-dumper",
-    "roblox_version": "version-02c37bc51a384b8f",
-    "total_offsets": 325
+    "roblox_version": "version-cec3ad5889b447cf",
+    "total_offsets": 323
   },
   "offsets": {
     "AirProperties": {
@@ -34,10 +34,6 @@
       "Size": 172,
       "Threshold": 176
     },
-    "ByteCode": {
-      "Pointer": 16,
-      "Size": 188
-    },
     "CachedItem": {
       "FileMeshData": 40
     },
@@ -47,8 +43,8 @@
       "FieldOfView": 304,
       "Position": 236,
       "Rotation": 200,
-      "ViewportInt16": 636,
-      "ViewportSize": 700
+      "ViewportInt16": 652,
+      "ViewportSize": 716
     },
     "CharacterMesh": {
       "BaseTextureId": 184,
@@ -64,8 +60,8 @@
       "PropertyDescriptors": 64
     },
     "Creator": {
-      "MapEnd": 140438248,
-      "MapStart": 140438240
+      "MapEnd": 138275840,
+      "MapStart": 138275832
     },
     "DataModel": {
       "CreatorId": 376,
@@ -80,7 +76,7 @@
       "Name": 8
     },
     "FakeDataModel": {
-      "Pointer": 146098560,
+      "Pointer": 146603344,
       "RealDataModel": 504
     },
     "FileMeshData": {
@@ -92,23 +88,24 @@
       "VerticesEnd": 8
     },
     "Fire": {
-      "FireProximityPrompt": 51978352
+      "FireProximityPrompt": 51289488
     },
     "FunctionDescriptor": {
       "Function": 128
     },
     "Functions": {
-      "Clone": 22598560,
-      "Destroy": 22598592,
-      "FindPartOnRay": 14745056,
-      "FindPartOnRayWithIgnoreList": 14745184,
-      "FindPartOnRayWithWhitelist": 14745328,
-      "FireServer": 12419712,
-      "Print": 30600880,
-      "RaisePropertyChanged": 30765408,
-      "Raycast": 14709936,
-      "SetParentInternal": 30895888,
-      "Shapecast": 14716528
+      "Clone": 18446604900614803672,
+      "Destroy": 18446604900614803704,
+      "FindPartOnRay": 18446604900615260120,
+      "FindPartOnRayWithIgnoreList": 18446604900615260248,
+      "FindPartOnRayWithWhitelist": 18446604900615260344,
+      "FireServer": 18446604900615777496,
+      "Print": 29776432,
+      "RaisePropertyChanged": 14608768,
+      "Raycast": 18446604900615259416,
+      "SetParent": 13685536,
+      "SetParentInternal": 30080688,
+      "Shapecast": 18446604900615259576
     },
     "GuiBase2D": {
       "AbsolutePosition": 248,
@@ -264,7 +261,6 @@
       "Scale": 308
     },
     "ModuleScript": {
-      "Bytecode": 8,
       "IsRobloxScript": 344
     },
     "MouseService": {
@@ -303,8 +299,8 @@
       "CanTouch": 16
     },
     "PropertyDescriptor": {
-      "GetSetImpl": 144,
-      "TType": 104
+      "GetSetImpl": 152,
+      "TType": 112
     },
     "ProximityPrompt": {
       "ActionText": 160,
@@ -321,7 +317,7 @@
       "SkyboxValid": 653
     },
     "ScriptContext": {
-      "RequireBypass": 2768
+      "RequireBypass": 2421
     },
     "Seat": {
       "Occupant": 520
@@ -351,7 +347,7 @@
       "JobName": 24,
       "JobStart": 200,
       "MaxFps": 176,
-      "Pointer": 145748640
+      "Pointer": 146247976
     },
     "Team": {
       "TeamColor": 168
@@ -366,45 +362,45 @@
       "WaterWaveSpeed": 500
     },
     "TextButton": {
-      "AutoButtonColor": 2508,
-      "ContentText": 3592,
-      "LineHeight": 3872,
-      "LocalizedText": 3592,
-      "MaxVisibleGraphemes": 4412,
-      "Modal": 2509,
-      "RichText": 4126,
-      "Selected": 2510,
-      "Text": 3592,
-      "TextColor3": 4384,
-      "TextDirection": 4032,
-      "TextScaled": 4118,
-      "TextSize": 4420,
-      "TextStrokeColor3": 4396,
-      "TextStrokeTransparency": 4424,
-      "TextTransparency": 4428,
-      "TextTruncate": 4432,
-      "TextWrapped": 4120,
-      "TextXAlignment": 4436,
-      "TextYAlignment": 3944
+      "AutoButtonColor": 2532,
+      "ContentText": 3616,
+      "LineHeight": 3896,
+      "LocalizedText": 3616,
+      "MaxVisibleGraphemes": 4436,
+      "Modal": 2533,
+      "RichText": 4150,
+      "Selected": 2534,
+      "Text": 3616,
+      "TextColor3": 4408,
+      "TextDirection": 4056,
+      "TextScaled": 4142,
+      "TextSize": 4444,
+      "TextStrokeColor3": 4420,
+      "TextStrokeTransparency": 4448,
+      "TextTransparency": 4452,
+      "TextTruncate": 4456,
+      "TextWrapped": 4144,
+      "TextXAlignment": 4460,
+      "TextYAlignment": 3968
     },
     "TextLabel": {
-      "ContentText": 2952,
-      "LineHeight": 3232,
-      "LocalizedText": 2952,
-      "MaxVisibleGraphemes": 3772,
-      "RichText": 3486,
-      "Text": 2952,
-      "TextColor3": 3744,
-      "TextDirection": 3392,
-      "TextScaled": 3478,
-      "TextSize": 3780,
-      "TextStrokeColor3": 3756,
-      "TextStrokeTransparency": 3784,
-      "TextTransparency": 3788,
-      "TextTruncate": 3792,
-      "TextWrapped": 3480,
-      "TextXAlignment": 3796,
-      "TextYAlignment": 3304
+      "ContentText": 2976,
+      "LineHeight": 3256,
+      "LocalizedText": 2976,
+      "MaxVisibleGraphemes": 3796,
+      "RichText": 3510,
+      "Text": 2976,
+      "TextColor3": 3768,
+      "TextDirection": 3416,
+      "TextScaled": 3502,
+      "TextSize": 3804,
+      "TextStrokeColor3": 3780,
+      "TextStrokeTransparency": 3808,
+      "TextTransparency": 3812,
+      "TextTruncate": 3816,
+      "TextWrapped": 3504,
+      "TextXAlignment": 3820,
+      "TextYAlignment": 3328
     },
     "Tool": {
       "CanBeDropped": 1192,
@@ -414,12 +410,12 @@
       "GripPos": 1180,
       "GripRight": 1144,
       "GripUp": 1156,
-      "ManualActivationOnly": 1194,
+      "ManualActivationOnly": 1192,
       "RequiresHandle": 1195,
       "Tooltip": 1112
     },
     "Types": {
-      "AllTypes": 145663816
+      "AllTypes": 146163064
     },
     "Value": {
       "Value": 168
@@ -435,20 +431,20 @@
     "VisualEngine": {
       "Dimensions": 2832,
       "FakeDataModel": 2800,
-      "Pointer": 140038664,
+      "Pointer": 140865088,
       "RenderView": 3120,
       "ViewMatrix": 432
     },
     "Workspace": {
       "CurrentCamera": 1192,
-      "ReadOnlyGravity": 2488,
+      "ReadOnlyGravity": 2504,
       "World": 1024
     },
     "World": {
-      "AirProperties": 576,
-      "Gravity": 552,
-      "Primitives": 720,
-      "WorldSteps": 1864
+      "AirProperties": 568,
+      "Gravity": 544,
+      "Primitives": 712,
+      "WorldSteps": 1856
     }
   },
   "enums": {
