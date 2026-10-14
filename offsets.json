@@ -3,8 +3,8 @@
     "dumper": "roblox-dumper 3.6",
     "author": "Jonah (jonahw on Discord)",
     "github": "https://git.jonah.cool/jonah/roblox-dumper",
-    "roblox_version": "version-cec3ad5889b447cf",
-    "total_offsets": 323
+    "roblox_version": "version-7a0c6d10fcb34a2c",
+    "total_offsets": 322
   },
   "offsets": {
     "AirProperties": {
@@ -20,11 +20,11 @@
       "Offset": 204
     },
     "BasePart": {
-      "CastShadow": 293,
-      "Color3": 408,
-      "Locked": 294,
-      "Massless": 295,
-      "Primitive": 376,
+      "CastShadow": 296,
+      "Color3": 428,
+      "Locked": 297,
+      "Massless": 298,
+      "Primitive": 384,
       "Reflectance": 252,
       "Shape": 424,
       "Transparency": 288
@@ -43,7 +43,6 @@
       "FieldOfView": 304,
       "Position": 236,
       "Rotation": 200,
-      "ViewportInt16": 652,
       "ViewportSize": 716
     },
     "CharacterMesh": {
@@ -60,8 +59,8 @@
       "PropertyDescriptors": 64
     },
     "Creator": {
-      "MapEnd": 138275840,
-      "MapStart": 138275832
+      "MapEnd": 140320000,
+      "MapStart": 140319992
     },
     "DataModel": {
       "CreatorId": 376,
@@ -76,7 +75,7 @@
       "Name": 8
     },
     "FakeDataModel": {
-      "Pointer": 146603344,
+      "Pointer": 148659456,
       "RealDataModel": 504
     },
     "FileMeshData": {
@@ -88,24 +87,24 @@
       "VerticesEnd": 8
     },
     "Fire": {
-      "FireProximityPrompt": 51289488
+      "FireProximityPrompt": 51183456
     },
     "FunctionDescriptor": {
       "Function": 128
     },
     "Functions": {
-      "Clone": 18446604900614803672,
-      "Destroy": 18446604900614803704,
-      "FindPartOnRay": 18446604900615260120,
-      "FindPartOnRayWithIgnoreList": 18446604900615260248,
-      "FindPartOnRayWithWhitelist": 18446604900615260344,
-      "FireServer": 18446604900615777496,
-      "Print": 29776432,
-      "RaisePropertyChanged": 14608768,
-      "Raycast": 18446604900615259416,
-      "SetParent": 13685536,
-      "SetParentInternal": 30080688,
-      "Shapecast": 18446604900615259576
+      "Clone": 18446605613927573592,
+      "Destroy": 18446605613927573624,
+      "FindPartOnRay": 18446605613928616568,
+      "FindPartOnRayWithIgnoreList": 18446605613928616696,
+      "FindPartOnRayWithWhitelist": 18446605613928616792,
+      "FireServer": 18446605613927102616,
+      "Print": 30294352,
+      "RaisePropertyChanged": 30464288,
+      "Raycast": 18446605613928615864,
+      "SetParent": 13853029,
+      "SetParentInternal": 30608352,
+      "Shapecast": 18446605613928616024
     },
     "GuiBase2D": {
       "AbsolutePosition": 248,
@@ -147,32 +146,32 @@
       "BinType": 1112
     },
     "Humanoid": {
-      "AutoJumpEnabled": 452,
-      "AutoRotate": 453,
-      "AutomaticScalingEnabled": 454,
-      "BreakJointsOnDeath": 455,
+      "AutoJumpEnabled": 464,
+      "AutoRotate": 465,
+      "AutomaticScalingEnabled": 466,
+      "BreakJointsOnDeath": 467,
       "CameraOffset": 280,
-      "DisplayDistanceType": 368,
-      "EvaluateStateMachine": 456,
-      "Health": 384,
-      "HealthDisplayDistance": 376,
-      "HealthDisplayType": 380,
-      "HipHeight": 388,
-      "JumpHeight": 400,
-      "JumpPower": 404,
-      "MaxHealth": 408,
-      "MaxSlopeAngle": 412,
-      "NameDisplayDistance": 416,
-      "NameOcclusion": 420,
-      "RequiresNeck": 461,
-      "RigType": 432,
+      "DisplayDistanceType": 380,
+      "EvaluateStateMachine": 468,
+      "Health": 396,
+      "HealthDisplayDistance": 388,
+      "HealthDisplayType": 392,
+      "HipHeight": 400,
+      "JumpHeight": 412,
+      "JumpPower": 416,
+      "MaxHealth": 420,
+      "MaxSlopeAngle": 424,
+      "NameDisplayDistance": 428,
+      "NameOcclusion": 432,
+      "RequiresNeck": 474,
+      "RigType": 444,
       "SeatPart": 248,
-      "Sit": 462,
-      "TargetPoint": 316,
-      "UseJumpPower": 464,
-      "WalkSpeed": 448,
-      "WalkSpeedCheck": 924,
-      "WalkToPoint": 340
+      "Sit": 475,
+      "TargetPoint": 328,
+      "UseJumpPower": 477,
+      "WalkSpeed": 460,
+      "WalkSpeedCheck": 932,
+      "WalkToPoint": 352
     },
     "ICreator": {
       "Create": 0
@@ -224,27 +223,27 @@
       "Next": 0
     },
     "MaterialColors": {
-      "Asphalt": 48,
-      "Basalt": 39,
-      "Brick": 15,
-      "Cobblestone": 51,
-      "Concrete": 12,
-      "CrackedLava": 45,
-      "Glacier": 27,
-      "Grass": 6,
-      "Ground": 42,
-      "Ice": 54,
-      "LeafyGrass": 57,
-      "Limestone": 63,
-      "Mud": 36,
-      "Pavement": 66,
-      "Rock": 24,
-      "Salt": 60,
-      "Sand": 18,
-      "Sandstone": 33,
-      "Slate": 9,
-      "Snow": 30,
-      "WoodPlanks": 21
+      "Asphalt": 144,
+      "Basalt": 135,
+      "Brick": 111,
+      "Cobblestone": 147,
+      "Concrete": 108,
+      "CrackedLava": 141,
+      "Glacier": 123,
+      "Grass": 102,
+      "Ground": 138,
+      "Ice": 150,
+      "LeafyGrass": 153,
+      "Limestone": 159,
+      "Mud": 132,
+      "Pavement": 162,
+      "Rock": 120,
+      "Salt": 156,
+      "Sand": 114,
+      "Sandstone": 129,
+      "Slate": 105,
+      "Snow": 126,
+      "WoodPlanks": 117
     },
     "MemEnforcedLRUCache": {
       "Head": 8
@@ -267,14 +266,14 @@
       "InputObject": 240
     },
     "Player": {
-      "AccountAge": 844,
+      "AccountAge": 860,
       "DisplayName": 296,
-      "HealthDisplayDistance": 900,
-      "LocaleId": 1864,
-      "ModelInstance": 648,
-      "NameDisplayDistance": 916,
-      "Team": 712,
-      "TeamColor": 928,
+      "HealthDisplayDistance": 916,
+      "LocaleId": 1880,
+      "ModelInstance": 664,
+      "NameDisplayDistance": 932,
+      "Team": 728,
+      "TeamColor": 944,
       "UserId": 192
     },
     "Players": {
@@ -284,13 +283,13 @@
       "AssemblyAngularVelocity": 236,
       "AssemblyLinearVelocity": 224,
       "CFrame": 176,
-      "Material": 582,
+      "Material": 590,
       "Orientation": 176,
-      "Part": 528,
+      "Part": 536,
       "Position": 212,
-      "PrimitiveFlags": 438,
+      "PrimitiveFlags": 446,
       "Rotation": 176,
-      "Size": 444
+      "Size": 452
     },
     "PrimitiveFlags": {
       "Anchored": 2,
@@ -317,7 +316,7 @@
       "SkyboxValid": 653
     },
     "ScriptContext": {
-      "RequireBypass": 2421
+      "RequireBypass": 2689
     },
     "Seat": {
       "Occupant": 520
@@ -347,14 +346,14 @@
       "JobName": 24,
       "JobStart": 200,
       "MaxFps": 176,
-      "Pointer": 146247976
+      "Pointer": 148303944
     },
     "Team": {
       "TeamColor": 168
     },
     "Terrain": {
       "GrassLength": 480,
-      "MaterialColors": 1192,
+      "MaterialColors": 640,
       "WaterColor": 464,
       "WaterReflectance": 488,
       "WaterTransparency": 492,
@@ -410,12 +409,12 @@
       "GripPos": 1180,
       "GripRight": 1144,
       "GripUp": 1156,
-      "ManualActivationOnly": 1192,
+      "ManualActivationOnly": 1194,
       "RequiresHandle": 1195,
       "Tooltip": 1112
     },
     "Types": {
-      "AllTypes": 146163064
+      "AllTypes": 148219016
     },
     "Value": {
       "Value": 168
@@ -431,8 +430,8 @@
     "VisualEngine": {
       "Dimensions": 2832,
       "FakeDataModel": 2800,
-      "Pointer": 140865088,
-      "RenderView": 3120,
+      "Pointer": 142909616,
+      "RenderView": 3128,
       "ViewMatrix": 432
     },
     "Workspace": {
@@ -444,7 +443,7 @@
       "AirProperties": 568,
       "Gravity": 544,
       "Primitives": 712,
-      "WorldSteps": 1856
+      "WorldSteps": 2176
     }
   },
   "enums": {
