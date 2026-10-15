@@ -43,7 +43,8 @@
       "FieldOfView": 304,
       "Position": 236,
       "Rotation": 200,
-      "ViewportSize": 716
+      "ViewportSize": 716,
+      "ViewportInt16": 652
     },
     "CharacterMesh": {
       "BaseTextureId": 184,
